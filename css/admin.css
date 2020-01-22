@@ -1,0 +1,42 @@
+body {
+    background-image: url("../images/bg.png");
+    background-color: #cccccc;
+}
+.bandeauh{
+    background-color: white;
+    width:1136px;
+    height:238px;
+    margin: auto;
+    background: url("../images/haut.png");
+}
+#titre {
+    color: #00854a;
+}
+label {
+    color: #5171aa;
+}
+footer{
+    width:1136px;
+    height:176px;
+    margin: auto;
+    background: url("../images/bas.png");
+}
+a {
+    padding: 2px;
+    text-decoration: none;
+    font-size: large;
+    color: #5171aa;
+    background: white;
+}
+h1 {
+    width: 300px;
+    color: #00854a;
+  }
+#contenu {
+    background: url("../images/fondcontenu.png");
+    display: block;
+    background-color: white;
+    width:1136px;
+    margin: auto;
+    padding-bottom: 20px  
+}
